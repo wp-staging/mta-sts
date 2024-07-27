@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: mxlb.ispgateway.de
+max_age: 604800
